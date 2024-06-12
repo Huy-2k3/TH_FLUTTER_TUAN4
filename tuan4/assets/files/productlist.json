@@ -6,8 +6,77 @@
             "name": "iPhone 15 Pro Max",
             "price": 29990000,
             "img": "iphone15promax.png",
+            "des": "Điện thoại iPhone 15 Pro Max 256GB"
+        },
+        {
+            "id": 2,
+            "name": "iPhone 13 128GB",
+            "price": 14090000,
+            "img": "iPhone13128GB.png",
+            "des": "Điện thoại iPhone 13 128GB"
+        },
+        {
+            "id": 3,
+            "name": "iPhone 14 Pro Max 128GB",
+            "price": 26990000,
+            "img": "iPhone14ProMax128GB.png",
+            "des": "Điện thoại iPhone 14 Pro Max 128GB"
+        },
+        {
+            "id": 4,
+            "name": "Samsung Galaxy S23 Ultra",
+            "price": 24990000,
+            "img": "SamsungGalaxyS23Ultra.png",
+            "des": "Điện thoại Samsung Galaxy S23 Ultra"
+        },
+        {
+            "id": 1,
+            "name": "iPhone 15 Pro Max",
+            "price": 29990000,
+            "img": "iphone15promax.png",
+            "des": "mo ta"
+        },
+        {
+            "id": 1,
+            "name": "iPhone 15 Pro Max",
+            "price": 29990000,
+            "img": "iphone15promax.png",
+            "des": "mo ta"
+        },
+        {
+            "id": 1,
+            "name": "iPhone 15 Pro Max",
+            "price": 29990000,
+            "img": "iphone15promax.png",
+            "des": "mo ta"
+        },
+        {
+            "id": 1,
+            "name": "iPhone 15 Pro Max",
+            "price": 29990000,
+            "img": "iphone15promax.png",
+            "des": "mo ta"
+        },
+        {
+            "id": 1,
+            "name": "iPhone 15 Pro Max",
+            "price": 29990000,
+            "img": "iphone15promax.png",
+            "des": "mo ta"
+        },
+        {
+            "id": 1,
+            "name": "iPhone 15 Pro Max",
+            "price": 29990000,
+            "img": "iphone15promax.png",
+            "des": "mo ta"
+        },
+        {
+            "id": 1,
+            "name": "iPhone 15 Pro Max",
+            "price": 29990000,
+            "img": "iphone15promax.png",
             "des": "mo ta"
         }
-        
     ]
 }
